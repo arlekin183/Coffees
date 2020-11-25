@@ -1,0 +1,11 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "parser": "babel-flow",
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "quoteProps": "preserve",
+  "prettier.printWidth": 150,
+  "prettier.jsxBracketSameLine": true,
+  "printWidth": 150
+}
